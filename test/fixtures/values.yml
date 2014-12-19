@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 1
+  slope: 1.5
+  intercept: 1.5
+  unit: MyString
+  min: 1.5
+  max: 1.5
+
+two:
+  type: 1
+  slope: 1.5
+  intercept: 1.5
+  unit: MyString
+  min: 1.5
+  max: 1.5

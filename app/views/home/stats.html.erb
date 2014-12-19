@@ -1,0 +1,21 @@
+<div id="seciton_title">Stats</div>
+<div id=statbox>
+ <div id=vehicle_stats>
+   <div id=vehicle_stat_label>Number of Makes</div>&nbsp<div id=stat_value><%= Make.all.count %></div>
+   <div id=vehicle_stat_label>Number of Models</div>&nbsp<div id=stat_value><%= Model.all.count %></div>
+   <div id=vehicle_stat_label>Number of Model Years</div>&nbsp<div id=stat_value><%= Year.all.count %></div>
+   <div id=vehicle_stat_label>Number of Messages</div>&nbsp<div id=stat_value><%= Message.all.count %></div>
+   <div id=vehicle_stat_label>Number of Signals</div>&nbsp<div id=stat_value><%= CanSignal.all.count %></div>
+ </div>
+</div>
+<div id=user_stats>
+  <div id=user_high_submission_label>Highest Submissions</div>
+  <div id=user_stat_column>
+    <div id=user_stat_name>TODO</div>
+  </div>
+  <div id=user_high_quality_label>Highest Rankings</div>
+  <div id=user_stat_column>
+    <div id=user_stat_name>TODO</div>
+  </div>
+</div>
+<%= link_to 'Back', home_index_path %>

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  label_group_name: MyString
+  type: 
+  from: 1
+  to: 1
+  label_set_id: 1
+  created_by: 1
+
+two:
+  label_group_name: MyString
+  type: 
+  from: 1
+  to: 1
+  label_set_id: 1
+  created_by: 1

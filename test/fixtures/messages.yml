@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  can_id: MyString
+  message_name: MyString
+  length: MyString
+  interval: 1
+  triggered: 
+  count: 1
+  format: MyString
+  remote: 
+  created_by: 1
+
+two:
+  can_id: MyString
+  message_name: MyString
+  length: MyString
+  interval: 1
+  triggered: 
+  count: 1
+  format: MyString
+  remote: 
+  created_by: 1

@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  year_name: MyString
+  created_by: 1
+
+two:
+  year_name: MyString
+  created_by: 1

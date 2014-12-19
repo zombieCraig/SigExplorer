@@ -1,0 +1,2 @@
+module MakeHelper
+end

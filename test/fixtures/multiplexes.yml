@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  message_id: 1
+  endianess: MyString
+  length: 1
+  multiplex_name: MyString
+  offset: 1
+  created_by: 1
+
+two:
+  message_id: 1
+  endianess: MyString
+  length: 1
+  multiplex_name: MyString
+  offset: 1
+  created_by: 1

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  signal_id: 1
+  up: 1
+  down: 1
+  user_id: 1
+
+two:
+  signal_id: 1
+  up: 1
+  down: 1
+  user_id: 1

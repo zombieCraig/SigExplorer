@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  label_set_id: 1
+  label_name: MyString
+  type: 
+  value: 1
+  created_by: 1
+
+two:
+  label_set_id: 1
+  label_name: MyString
+  type: 
+  value: 1
+  created_by: 1

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mux_group_id: 1
+  message_id: 1
+  endianess: MyString
+  length: 1
+  signal_name: MyString
+  offset: 1
+  created_by: 1
+
+two:
+  mux_group_id: 1
+  message_id: 1
+  endianess: MyString
+  length: 1
+  signal_name: MyString
+  offset: 1
+  created_by: 1

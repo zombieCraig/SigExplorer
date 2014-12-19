@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make_name: MyString
+  created_by: 1
+
+two:
+  make_name: MyString
+  created_by: 1

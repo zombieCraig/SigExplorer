@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bus_name: MyString
+  baudrate: 1
+  created_by: 1
+
+two:
+  bus_name: MyString
+  baudrate: 1
+  created_by: 1
