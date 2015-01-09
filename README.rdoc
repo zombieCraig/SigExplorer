@@ -1,28 +1,43 @@
-== README
+== CAN Bus Signal Explorer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This tool provides a web interface to collobarate on discovered signals and organize
+research.  The goa is to define vehicle bus networks and the signals used within them.
+Data can be searched or exported.  The current format is Kayak KCD format.
 
-Things you may want to cover:
+Kayak KCD Schema is here: https://github.com/dschanoeh/Kayak/blob/master/Kayak-kcd/src/main/resources/com/github/kayak/canio/kcd/loader/Definition.xsd
 
-* Ruby version
+NOTE: Currently this code does not work.  Uber development.  Do not touch unless you know what you are doing.
 
-* System dependencies
+Basic Notes:
 
-* Configuration
+* Designed to run with ruby 2.1.5
 
-* Database creation
+* System dependencies - Normal bundle update stuff
 
-* Database initialization
+* Configuration - Nothing special
 
-* How to run the test suite
+* Database creation - rake db:migrate
 
-* Services (job queues, cache servers, search engines, etc.)
+* How to run the test suite - TODO
 
-* Deployment instructions
+* Start with bundle exec puma
 
-* ...
+TODO:
 
+* UI/UX screens
+* Search
+* CANDump upload
+* KCD Export
+* Browse capability
+* Stats
+* UP/Down voting
+* Notes
+* Multiplexed Signals
+* Linked updates
+* Merged uploads
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+(Optional TODO)
+* c0f Fingerprinting
+* Add FIBEX support
+* Add OpenXC Format support
+
